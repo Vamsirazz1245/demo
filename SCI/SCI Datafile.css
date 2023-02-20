@@ -1,0 +1,78 @@
+.button {
+    background-color: lightgreen;
+    border-color: black;
+    padding: 5px;
+}
+.button:hover{
+    background-color: darkgreen;
+    color: whitesmoke;
+}
+input:hover{
+    box-shadow: limegreen 0 0 2px;
+
+}
+body
+{
+    font-family: "Times New Roman";
+    text-align: center;
+}
+
+form
+{
+    background: lightskyblue;
+    width: 300px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px gray;
+    margin: auto;
+}
+header
+{
+    background-color: lightgrey;
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px lightgrey;
+}
+img
+{
+    padding-top: 5px;
+    width: 180px;
+    height: 80px;
+}
+footer
+{
+    background-color: lightgrey;
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px lightgray;
+    height: 30px;
+}
+input
+{
+    margin: 10px;
+}
+
+
+/*.is-form-valid
+{
+    border: 1px solid limegreen;
+    border-left: 10px solid limegreen;
+    box-shadow: limegreen 0 0 5px;
+}
+.is-form-invalid
+{
+    border: 1px solid orangered;
+    border-left: 10px solid orangered;
+    box-shadow: orangered 0 0 5px;
+}
+.text-success
+{
+    color: limegreen; !important;
+    font-size: 14px;!important;
+}
+.text-danger
+{
+    color: orangered;!important;
+    font-size: 14px;!important;
+}
+*\
